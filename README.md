@@ -8,6 +8,7 @@ Este proyecto esta destinado hacer Open Source
 
 - Alexys Lozada
 - Beto Quiroga
+- Luis S. Jimenez
 
 ## Auspiciadores 
 
